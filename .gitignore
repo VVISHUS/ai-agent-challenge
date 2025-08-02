@@ -1,0 +1,5 @@
+.env
+/test.ipynb
+/venv
+/__pycache__
+/.claude
