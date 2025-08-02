@@ -27,7 +27,7 @@ PyPDF2 or pdfplumber
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+gh repo clone VVISHUS/ai-agent-challenge
 cd ai-agent-challenge
 ```
 
